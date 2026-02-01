@@ -23,6 +23,7 @@
 Snapdragon™ Game Studios developed **Snapdragon™ Game Super Resolution** (**Snapdragon™ GSR** or **SGSR**), which integrates upscaling and sharpening in one single GPU shader pass. The algorithm uses a 12-tap Lanczos-like scaling filter and adaptive sharpening filter, which presents smooth images and sharp edges.
 
 ![alt text](media/sgsr_filter.png "")
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fsnapdragon-gsr.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fsnapdragon-gsr?ref=badge_shield)
 
 Our solution provides an efficient solution for games to draw 2D UI at device resolution for better visual quality, while rendering the 3D scene at a lower resolution for performance and power savings. 
 
@@ -136,3 +137,6 @@ Although not provided here, our shader can be mixed with AA techniques, potentia
 
 # License
 Snapdragon™ Game Super Resolution is licensed under the BSD 3-clause “New” or “Revised” License. Check out the [LICENSE](LICENSE) for more details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fsnapdragon-gsr.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fsnapdragon-gsr?ref=badge_large)
